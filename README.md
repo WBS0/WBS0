@@ -2,7 +2,7 @@
 - 👀 I’m interested in c++ and java development projects
 - 🌱 I’m currently learning java in high school
 - 💞️ I’m looking to collaborate on various c++,python,jdk,video editing projects
-- 📫 How to reach me wonder.beastaru100@gmail.com
+- 📫 How to reach me arnav.kanade2000@gmail.com
 
 <!---
 WBS0/WBS0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
