@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WBS0
-- 👀 I’m interested in c++ and java development projects
+- 👀 I’m interested in c++ and python development projects
 - 🌱 I’m currently learning java in high school
 - 💞️ I’m looking to collaborate on various c++,python,jdk,video editing projects
 - 📫 How to reach me arnav.kanade2000@gmail.com
